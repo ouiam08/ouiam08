@@ -4,9 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouiam08&label=Profile%20views&color=0e75b6&style=flat" alt="ouiam08" /> </p>
 
-- 🔭 I’m currently working on **Java App **
+- 🔭 I’m currently working on <b>Java Applications</b>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning React.js
+
+- 📫 How to reach me **ouiam.khoudraji@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
