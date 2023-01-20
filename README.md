@@ -44,7 +44,7 @@
 <div >
   <a href="https://github.com/ouiam08">
   
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)"/>
+  <img height="180em" src="![ouiam08's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouiam08)"/>
  
 
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouiam08&" alt="ouiam08" /> -->
