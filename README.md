@@ -43,8 +43,8 @@
 
 <div >
   <a href="https://github.com/ouiam08">
-  ![ouiam08's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouiam08&show_icons=true&theme=transparent)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouiam08&layout=compact&langs_count=7"/>
+  
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)"/>
  
 
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouiam08&" alt="ouiam08" /> -->
