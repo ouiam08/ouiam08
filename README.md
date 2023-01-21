@@ -41,16 +41,17 @@
 
 
 
-<div >
+<div align="center">
   <a href="https://github.com/ouiam08">
   
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouiam08"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouiam08&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouiam08&layout=compact&langs_count=7"/>
  
 
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouiam08&" alt="ouiam08" /> -->
+
  </div>
-
-
-
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouiam08&" alt="ouiam08" />
+</div>
 
 
